@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-shelf-with-bookmark-arrangement_23-2149891174.jpg?t=st=1733991207~exp=1733994807~hmac=e982670c83eb8a94f7c1e23441685874c74686a11540fbb91d48a0f70840b668&w=360"
+    },
+    {
+        "id": 2,
+        "name": "Music Book",
+        "title": "lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-shelf-with-bookmark-arrangement_23-2149891174.jpg?t=st=1733991207~exp=1733994807~hmac=e982670c83eb8a94f7c1e23441685874c74686a11540fbb91d48a0f70840b668&w=360"
+    },
+    {
+        "id": 3,
+        "name": "Drama Book",
+        "title": "lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-shelf-with-bookmark-arrangement_23-2149891174.jpg?t=st=1733991207~exp=1733994807~hmac=e982670c83eb8a94f7c1e23441685874c74686a11540fbb91d48a0f70840b668&w=360"
+    },
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-shelf-with-bookmark-arrangement_23-2149891174.jpg?t=st=1733991207~exp=1733994807~hmac=e982670c83eb8a94f7c1e23441685874c74686a11540fbb91d48a0f70840b668&w=360"
+    },
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-shelf-with-bookmark-arrangement_23-2149891174.jpg?t=st=1733991207~exp=1733994807~hmac=e982670c83eb8a94f7c1e23441685874c74686a11540fbb91d48a0f70840b668&w=360"
+    },
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-shelf-with-bookmark-arrangement_23-2149891174.jpg?t=st=1733991207~exp=1733994807~hmac=e982670c83eb8a94f7c1e23441685874c74686a11540fbb91d48a0f70840b668&w=360"
+    },
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/books-shelf-with-bookmark-arrangement_23-2149891174.jpg?t=st=1733991207~exp=1733994807~hmac=e982670c83eb8a94f7c1e23441685874c74686a11540fbb91d48a0f70840b668&w=360"
+    }
+]
